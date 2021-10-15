@@ -1,3 +1,0 @@
-D:/cpp-tutorial/C++ 11/cmake-build-debug/CMakeFiles/C___11.dir
-D:/cpp-tutorial/C++ 11/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cpp-tutorial/C++ 11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
